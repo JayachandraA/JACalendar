@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JACalendar_Example' do
+  pod 'JACalendar', :path => '../'
+
+  target 'JACalendar_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
