@@ -1,0 +1,6 @@
+framework module Pods_JACalendar_Tests {
+  umbrella header "Pods-JACalendar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

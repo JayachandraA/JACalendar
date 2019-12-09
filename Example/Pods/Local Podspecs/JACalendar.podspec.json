@@ -1,0 +1,29 @@
+{
+  "name": "JACalendar",
+  "version": "0.1.0",
+  "summary": "A short description of JACalendar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JayachandraA/JACalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JayachandraA": "ajchandra15@Gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JayachandraA/JACalendar.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/ajchandra15",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JACalendar/Classes/**/*",
+  "resource_bundles": {
+    "JACalendar": [
+      "JACalendar/Assets/*.png",
+      "JACalendar/Assets/*"
+    ]
+  }
+}
