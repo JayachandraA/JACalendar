@@ -50,7 +50,7 @@ pod 'JACalendar'
 
 ## Author
 
-JayachandraA, jayachandra.a@bluerose-tech.com
+JayachandraA, ajchandra15@gmail.com
 
 ## License
 
