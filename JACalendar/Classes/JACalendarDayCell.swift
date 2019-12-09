@@ -7,11 +7,13 @@
 
 import UIKit
 
-class JACalendarDayCell: UICollectionViewCell {
-
-    override func awakeFromNib() {
+public class JACalendarDayCell: UICollectionViewCell {
+    @IBOutlet weak var containerView: UIView!
+    @IBOutlet weak var dayLabel: UILabel!
+    
+    override public func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        
+        containerView.layer.cornerRadius = 5
     }
-
 }
