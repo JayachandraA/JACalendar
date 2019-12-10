@@ -47,6 +47,8 @@ pod 'JACalendar'
         JACalendar.show(from: self, theme: theme) { (date) in
             print(date)
         }
+## Preview
+![Image of preview](https://raw.githubusercontent.com/JayachandraA/JACalendar/master/Example/JACalendar/custom.png)
 
 ## Author
 
